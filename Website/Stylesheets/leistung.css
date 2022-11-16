@@ -1,0 +1,82 @@
+#leistungen{
+	position:absolute;
+	top:200px;
+	background-color:#e0e4ae;
+	font-size:1.5em;
+	margin-left:10%;
+	margin-right:10px;
+	padding-left:10px;
+	width:1250px;
+	height:1250px;
+	border-radius:5px;
+}
+
+#beratung{
+	margin:10px;
+	margin-top:15px;
+	padding:5px;
+	background-color: #d4d98c;
+	border-radius:5px;
+}
+
+#beratungBild{
+	float:left;
+}
+
+#beratungText{
+	position:relative;
+	top:-15px;
+	margin-left:415px;
+}
+
+#aufruesten{
+	margin: 10px;
+	margin-top:40px;
+	padding:5px;
+	background-color: #d4d98c;
+	border-radius:5px;
+}
+
+#aufruestenBild{
+	float:left;
+}
+
+#aufruestenText{
+	margin-left:415px;
+	margin-bottom:15px;
+}
+
+#netzwerkVerwaltung{
+	margin: 10px;
+	margin-top:40px;
+	padding:5px;
+	background-color: #d4d98c;
+	border-radius:5px;	
+}
+
+#netzwerkVerwaltungBild{
+	float:left;
+}
+	
+#netzwerkVerwaltungText{
+	margin-left:415px;
+	margin-bottom:15px;
+}
+
+
+#programmieren{
+	margin: 10px;
+	margin-top:40px;
+	padding:5px;
+	background-color: #d4d98c;
+	border-radius:5px;	
+}
+
+#programmierenBild{
+	float:left;	
+}
+
+#programmierenText{
+	margin-left:415px;
+	margin-bottom:15px;
+}

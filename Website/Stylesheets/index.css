@@ -1,0 +1,65 @@
+#motto{
+	position:absolute;
+	top:15px;
+	left:45px;
+	float:left;
+	width:380px;
+	height:300px;
+}
+
+.kasten{
+	background-color:#e0e4ae;
+}
+
+#anbieten{
+	position:absolute;
+	top:180px;
+	left:450px;
+	width:650px;
+	height:215px;
+	padding:10px;
+	font-size:1.5em;
+	border-radius:10px;
+}
+
+#blog{
+	position:absolute;
+	top:450px;
+	left:300px;
+	width:1000px;
+	height:1660px;
+	font-size:1.5em;
+	text-align:center;
+	border-radius:10px;
+}
+
+.blogInhalt{
+	
+}
+
+.blogVideo{
+	margin-top:25px;
+	margin-bottom:25px;
+}
+
+#bewertung{
+	position:absolute;
+	top:400px;
+	left:15px;
+	width:250px;
+	height:1300px;
+	padding:5px;
+	font-size:1.5em;
+	text-align:center;
+}
+
+.kundenBewertung{
+	margin-top:35px;
+	background-color:#d4d98c;
+	border-radius:5px;
+}
+
+.bewertungStern{
+	width:35px;
+	height:35px;
+}

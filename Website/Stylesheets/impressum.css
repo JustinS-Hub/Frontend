@@ -1,0 +1,19 @@
+.impressum{
+	position:absolute;
+	top: 150px;
+	background-color: #e0e4ae;
+	color: black;
+	padding-left:5px;
+	padding-right:50px;
+	margin-right:10px;
+	margin-left:10px;
+	border-style:inset;
+	border-color:#eeee8f;
+	border-width:15px;
+}
+
+#impressumBild{
+	width:150px;
+	heigh:75px;
+	float:right;
+}
